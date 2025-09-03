@@ -371,6 +371,12 @@ Cifrar los mensajes del mqtt y el wifi
 
 -5 tarjetas con rffid
 
+-protoboard
+
+-arduino IDE
+
+-Broker MQTT
+
 **Referencias**
 
 ** NXP Semiconductors. (2016). *MFRC522 Standard performance MIFARE and
